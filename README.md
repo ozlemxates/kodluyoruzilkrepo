@@ -1,4 +1,4 @@
 # Deneme
 ## Ilk proje
- deneme
+proje denemesi
 [lorem.ipsum](http://google.com)
